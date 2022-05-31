@@ -1,0 +1,1 @@
+API feita com Node.js, MongoDB e utilizando JWT auth
